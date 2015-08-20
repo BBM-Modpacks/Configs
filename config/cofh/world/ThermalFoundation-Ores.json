@@ -6,7 +6,7 @@
         "numClusters": 10,
         "minHeight": 40,
         "maxHeight": 75,
-        "retrogen": "false",
+        "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [
             "all"
@@ -21,10 +21,10 @@
         "template": "uniform",
         "block": {"name": "ThermalFoundation:Ore", "metadata": 1},
         "clusterSize": 8,
-        "numClusters": 10,
+        "numClusters": 8,
         "minHeight": 20,
         "maxHeight": 55,
-        "retrogen": "false",
+        "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [
             "all"
@@ -42,10 +42,10 @@
             {"name": "ThermalFoundation:Ore", "metadata": 3, "weight":20}
         ],
         "clusterSize": 8,
-        "numClusters": 10,
+        "numClusters": 6,
         "minHeight": 5,
         "maxHeight": 30,
-        "retrogen": "false",
+        "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [
             "all"
@@ -63,10 +63,10 @@
             {"name": "ThermalFoundation:Ore", "metadata": 2, "weight": 10}
         ],
         "clusterSize": 8,
-        "numClusters": 10,
+        "numClusters": 8,
         "minHeight": 10,
         "maxHeight": 35,
-        "retrogen": "false",
+        "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [
             "all"
@@ -81,10 +81,10 @@
         "template": "uniform",
         "block": {"name": "ThermalFoundation:Ore", "metadata": 4},
         "clusterSize": 4,
-        "numClusters": 2,
+        "numClusters": 3,
         "minHeight": 5,
         "maxHeight": 20,
-        "retrogen": "false",
+        "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [
             "all"
@@ -106,7 +106,7 @@
         "numClusters": 1,
         "minHeight": 5,
         "maxHeight": 30,
-        "retrogen": "false",
+        "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [
             "all"
@@ -124,7 +124,7 @@
         "numClusters": 8,
         "minHeight": 48,
         "maxHeight": 96,
-        "retrogen": "false",
+        "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [
             "all"

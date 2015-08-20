@@ -8,5 +8,3 @@ var Bibliocraft_enabled = true;
 var AE2_enabled = true;
 var Tcon_enabled = true;
 var MFR_enabled = true;
-var Chisel_enabled = true;
-var OpenBlocks_enabled = true;
